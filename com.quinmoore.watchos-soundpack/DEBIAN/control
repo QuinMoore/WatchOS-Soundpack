@@ -1,9 +1,0 @@
-Package: com.quinmoore.watchos-soundpack
-Name: watchos-soundpack 
-Version: 1.0 
-Architecture: iphoneos-arm 
-Description: your description here. 
-Author: QuinMoore dohvahquiin@icloud.com 
-Section: Themes 
-Depends: none
-

@@ -1,0 +1,9 @@
+Package: com.quinmoore.watchossoundpack 
+Name: watchossoundpack 
+Version: 1.0 
+Architecture: iphoneos-arm 
+Description: WatchOS Sounds in iOS! 
+Author: QuinMoore dohvahquiin@icloud.com 
+Section: Themes 
+Depends: com.apple.UIKit, WinterBoardSettings.bundle 
+
