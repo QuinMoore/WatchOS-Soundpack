@@ -6,4 +6,5 @@ Description: WatchOS Sounds in iOS!
 Author: QuinMoore dohvahquiin@icloud.com 
 Maintainer: QuinMoore 
 Section: Themes 
-Depends: com.saurik.Winterboard
+Depends: winterboard
+
