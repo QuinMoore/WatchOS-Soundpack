@@ -6,4 +6,4 @@ Description: WatchOS Sounds on iOS.
 Author: QuinMoore
 dohvahquiin@icloud.com
 Section: Themes
-Depends: WinterBoardSettings.bundle
+Depends:
