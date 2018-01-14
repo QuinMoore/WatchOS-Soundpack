@@ -4,6 +4,6 @@ Version: 1.0
 Architecture: iphoneos-arm
 Description: WatchOS Sounds on iOS.
 Author: QuinMoore
-dohvahquiin@icloud.com
 Section: Themes
 Depends:
+
