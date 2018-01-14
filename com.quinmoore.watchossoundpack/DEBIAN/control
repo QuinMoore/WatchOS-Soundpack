@@ -4,6 +4,7 @@ Version: 1.0
 Architecture: iphoneos-arm 
 Description: WatchOS Sounds in iOS! 
 Author: QuinMoore dohvahquiin@icloud.com 
+Maintainer: QuinMoore 
 Section: Themes 
-Depends: com.apple.UIKit, WinterBoardSettings.bundle 
+Depends: winterboard
 
