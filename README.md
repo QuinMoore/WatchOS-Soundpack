@@ -26,7 +26,7 @@ To do that:
 
 # Issues & Depends
 
-1) This depends on Winterboard... I know that's annoying, but I could not get Anemone working on 10.3.1. (help?)
+1) You must already have Winterboard or Anemone installed (to apply the theme)
 2) Currently, there are only the Lock and Charge sounds present. More to come if people are interested!
 3) I can't seem to change SMS sounds.
 
